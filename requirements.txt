@@ -13,6 +13,7 @@ MarkupSafe==2.1.5
 mistune==3.0.2
 mysqlclient==2.2.4
 packaging==24.0
+pathlib2==2.3.7.post1
 pep8==1.7.1
 pyrsistent==0.20.0
 PyYAML==6.0.1
